@@ -21,9 +21,9 @@ header {
   color: white;
   text-transform: uppercase;
   padding-left: 24px;
-  border-radius: 12px;
+  border-radius: 5px;
   border: 10px solid black;
-  box-shadow: -10px -20px 0px #f00; /* x, y, blur, color */
+  box-shadow: 10px 20px 0px #f00; /* x, y, blur, color */
   text-shadow: 2px 2px 2px #000; /* x, y, blur, color */
 }
 
