@@ -1,9 +1,5 @@
 h1 {color:green;background-color:#0000FF;}
 
-header {
-    background-color: orange;
-}
-
 .turnred {
     color: red;
     font-weight: bold;
@@ -12,12 +8,6 @@ header {
 #orangeblue {
     color: orange;
     background-color: blueviolet;
-}
-
-#browngreen {
-    color: brown;
-    background-color: green;
-    font-weight: bold;
 }
 
 .browngreen {
