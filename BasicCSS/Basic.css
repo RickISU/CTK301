@@ -1,0 +1,31 @@
+h1 {
+    color: red; background-color: blue;
+}
+
+header { background-color: yellow; }
+
+.turnred {
+    color: red;
+}
+
+#specialh2 {
+    color: #00FF00;
+    background-color: brown;
+}
+
+h2 {
+    color: orange;
+}
+
+a {
+    color: chartreuse;
+}
+
+a:visited {
+    color: grey;
+}
+
+a:hover {
+    color: red;
+}
+
